@@ -5,3 +5,7 @@
 /train
 
 /validation
+
+/test_raw
+
+/validation_raw
