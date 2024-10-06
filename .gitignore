@@ -9,3 +9,5 @@
 /test_raw
 
 /validation_raw
+
+/tfrecord
