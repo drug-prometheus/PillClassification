@@ -14,3 +14,7 @@
 /tfrecord
 
 /train_raw
+
+/output_images
+
+/output_annotations
